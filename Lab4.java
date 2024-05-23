@@ -19,4 +19,4 @@ public class Lab4 {
   c.x19(c);
   }
 }
-previous : 3
+previous : 7
