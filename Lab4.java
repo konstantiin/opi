@@ -19,5 +19,8 @@ public class Lab4 {
   c.x19(c);
   }
 }
+
 previous : 1
 previous : 4
+previous : 2
+
