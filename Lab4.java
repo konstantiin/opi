@@ -19,5 +19,9 @@ public class Lab4 {
   c.x19(c);
   }
 }
+<<<<<<< HEAD
 previous : 12
 previous : 13
+=======
+previous : 11
+>>>>>>> blue
